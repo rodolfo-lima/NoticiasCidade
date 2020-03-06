@@ -1,2 +1,4 @@
 # NoticiasCidade
-Site fictício de notícias para pratica de html e css [sem bootstrap]
+
+
+Fictional news site for html and css practice [without bootstrap]
